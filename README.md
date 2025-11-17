@@ -1,4 +1,4 @@
 IT LAB
-HTML CSS JavaScript PHP Experiments
+MGR
 College Lab Record
 Open Source IT Lab
